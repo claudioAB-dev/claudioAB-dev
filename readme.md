@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Claudio Ariza</h1>
 <h3 align="center">Exploring, building, and evolving in the world of code.</h3>
 
+- 🌱 I’m currently learning **Ruby and Rails**
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **clarba156@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/clarba03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clarba03" height="30" width="40" /></a>
