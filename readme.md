@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Ruby and Rails** y aplicándolo en [nombre de proyecto personal o tipo de proyecto].
 - 💬 Pregúntame sobre **Python**, especialmente en áreas como **Desarrollo Web con Flask, APIs y scripting**.
-- 📫 Cómo contactarme: **clarba156@gmail.com**
+- 📫 Cómo contactarme: **claudioarizadev@gmail.com**
 - 📄 Considera echar un vistazo a mi portafolio.
 
 <h3 align="left">Conecta conmigo:</h3>
