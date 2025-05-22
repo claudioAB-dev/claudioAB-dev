@@ -9,7 +9,6 @@
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
   <a href="https://instagram.com/clarba03" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clarba03" height="30" width="40" /></a>
-  <a href="[TU_ENLACE_LINKEDIN]" target="_blank"><img align="center" src="[URL_ICONO_LINKEDIN]" alt="[TU_USUARIO_LINKEDIN]" height="30" width="40" /></a> 
   </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
