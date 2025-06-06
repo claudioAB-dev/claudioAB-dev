@@ -92,7 +92,6 @@ me.say_hi()
 - 🌱 **Learning:** Ruby on Rails for scalable web applications
 - 🔭 **Working on:** Personal projects involving API development and web scraping
 - 💬 **Ask me about:** Python, Flask, APIs, web development, and scripting
-- 🎯 **Goal:** Contributing to open-source projects and building impactful applications
 
 ---
 
@@ -121,9 +120,8 @@ me.say_hi()
 
 <div align="center">
   
-  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
   
-  Feel free to reach out if you want to collaborate on projects, discuss tech, or just chat about code! 
+  Feel free to reach out if you want to collaborate on projects!
   
   📧 **claudioarizadev@gmail.com**
   
